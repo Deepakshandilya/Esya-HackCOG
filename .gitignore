@@ -1,0 +1,15 @@
+secret
+scrapping/__pycache__/youtube_noapi.cpython-37.pyc
+scrapping/.ipynb_checkpoints/youtube-API-checkpoint.ipynb
+scrapping/.ipynb_checkpoints/youtube-model-checkpoint.ipynb
+scrapping/.ipynb_checkpoints/youtuber-noxinfluencer-checkpoint.ipynb
+scrapping/token.pickle
+scrapping/client_secret.json
+nlp/.ipynb_checkpoints/youtube-model_1-checkpoint.ipynb
+nlp/.ipynb_checkpoints/youtube-model_2-checkpoint.ipynb
+nlp/.ipynb_checkpoints/youtube-model_3-checkpoint.ipynb
+nlp/__pycache__/model_API.cpython-37.pyc
+requirements-l.txt
+requirements-o.txt
+nlp/__pycache__/video_summary.cpython-37.pyc
+mongodb/__pycache__/config.cpython-37.pyc
